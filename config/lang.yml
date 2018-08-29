@@ -1,14 +1,14 @@
 ---
 chapter:
-  word: Chapter
+  word: Kapittel
   order: standard     # Use 'reverse' to change 'Chapter 1' to '1 Chapter'
-section: Section
-table: Table
-figure: Figure
+section: Seksjon
+table: Tabell
+figure: Figur
 fig: Fig
-aside: Box
-listing: Listing
-equation: Equation
+aside: Boks
+listing: Liste
+equation: Ligning
 eq: Eq
-frontmatter: Frontmatter
-contents: Contents
+frontmatter: Forord
+contents: Innhold
